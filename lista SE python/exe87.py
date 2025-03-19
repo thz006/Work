@@ -1,1 +1,5 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe87.py
+pontuacao = 80
+if pontuacao > 70:
+    print("Aprovado")
+else:
+    print("Reprovado")

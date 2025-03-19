@@ -1,1 +1,9 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe81.py
+idade = 45
+if 0 <= idade <= 12:
+    print("Criança")
+elif 13 <= idade <= 19:
+    print("Adolescente")
+elif 20 <= idade <= 59:
+    print("Adulto")
+else:
+    print("Idoso")

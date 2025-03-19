@@ -1,1 +1,5 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe93.py
+idade = 26
+if idade > 25:
+    print("Pode alugar o carro")
+else:
+    print("Não pode alugar o carro")

@@ -1,1 +1,5 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe91.py
+dias_trabalhados = 22
+if dias_trabalhados > 20:
+    print("Direito ao prêmio")
+else:
+    print("Não recebe prêmio")

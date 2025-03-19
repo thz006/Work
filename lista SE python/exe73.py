@@ -1,1 +1,5 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe73.py
+idade = 35
+if 30 <= idade <= 40:
+    print("Seguro mais barato")
+else:
+    print("Seguro mais caro")

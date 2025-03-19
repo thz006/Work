@@ -1,1 +1,5 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe80.py
+saldo = -50
+if saldo < 0:
+    print("Conta no vermelho")
+else:
+    print("Conta positiva")

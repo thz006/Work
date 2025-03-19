@@ -1,1 +1,7 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe85.py
+media = 6
+if media >= 7:
+    print("Aprovado")
+elif 5 <= media < 7:
+    print("Recuperação")
+else:
+    print("Reprovado")

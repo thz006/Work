@@ -1,1 +1,5 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe79.py
+cargo = "Gerente"
+if cargo == "Gerente":
+    print("Bônus de 15% no salário")
+else:
+    print("Bônus de 5% no salário")

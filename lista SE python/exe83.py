@@ -1,1 +1,7 @@
-# Arquivo C:\Users\ArthurGomes\Desktop\lista SE python\exe83.py
+from datetime import datetime
+data_validade = datetime(2024, 5, 10).date()
+hoje = datetime.today().date()
+if data_validade < hoje:
+    print("Produto vencido")
+else:
+    print("Produto válido")
